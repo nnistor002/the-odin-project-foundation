@@ -4,6 +4,6 @@ Im following "The Odin Project" mainly to refresh and catch up. Im shifting my f
 
 ## 
 
-## For the "Foundation Course" i will be creating a folder for each lesson assignment (HTML - CSS - JavaScript)
+### For the "Foundation Course" i will be creating a folder for each lesson assignment (HTML - CSS - JavaScript)
 
 #### Folder : "odin-recipes" is an HTML Foundation Assignment
