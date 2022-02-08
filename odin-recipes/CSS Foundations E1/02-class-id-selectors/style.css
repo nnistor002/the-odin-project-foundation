@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(255, 214, 214);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#numb2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.kooler {
+  font-size: 24px;
+}
+
+#numb4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
