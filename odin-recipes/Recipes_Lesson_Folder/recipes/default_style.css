@@ -1,0 +1,43 @@
+#titletext {
+  text-align: center;
+  padding-top: 20px;
+}
+
+#detailP {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#homeLink {
+  text-align: center;
+}
+
+#mainContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#itemList {
+  flex: 1;
+  padding-right: 50px;
+  text-align: right;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#olSteps {
+  flex: 1;
+  padding-left: 50px;
+  text-align: left;
+}
+
+ol li {
+  max-width: 50%;
+}
